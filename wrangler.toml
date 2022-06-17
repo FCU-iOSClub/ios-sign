@@ -1,0 +1,9 @@
+name = "ios-sign"
+main = "src/index.js"
+compatibility_date = "2022-06-16"
+
+account_id = "07399963cda34544cfe69d545e0c721e"
+
+kv_namespaces = [
+    { binding = "USERS", id = "84c48b77308346acb34f82cf137d0655" , preview_id = "530deb7b5ead4aaca4d968a274312d40" }
+]

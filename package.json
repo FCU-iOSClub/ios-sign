@@ -1,0 +1,12 @@
+{
+  "name": "ios-sign",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.0.12"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "publish": "wrangler publish"
+  }
+}
