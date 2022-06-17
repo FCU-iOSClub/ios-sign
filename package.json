@@ -10,6 +10,7 @@
     "publish": "wrangler publish"
   },
   "dependencies": {
+    "cookie": "^0.5.0",
     "itty-router": "^2.6.1"
   }
 }
